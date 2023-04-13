@@ -1,2 +1,2 @@
-# Ovarian-Cancer-Detection
-Implementation of KNN and SVM on ovarian cancer images
+# Cancer-Detection
+Implementation of KNN and SVM on cancer ultrasound images
